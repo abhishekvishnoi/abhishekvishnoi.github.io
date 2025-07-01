@@ -8948,7 +8948,8 @@ textarea.form-control {
 .portfolio-wrap {
   display: block;
   width: 100%;
-  margin-bottom: 7em; }
+  /*margin-bottom: 7em;*/
+}
   .portfolio-wrap .text {
     position: relative; }
     .portfolio-wrap .text .subheading {
